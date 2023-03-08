@@ -119,14 +119,6 @@ nav a:hover {
     color: #ffd700;
 }
 
-nav .social-media{
-    display: flex;
-    align-items: center;
-}
-
-nav .social-media a{
-    font-size: 20px;
-}
 
 main {
     padding: 20px;
